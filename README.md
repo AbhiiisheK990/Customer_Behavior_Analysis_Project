@@ -52,11 +52,11 @@ EDA and data preparation were performed using **Python (pandas, numpy)**.
 
 * **Database Integration**
 
-  * Loaded cleaned dataset into **PostgreSQL** for SQL-based analysis
+  * Loaded cleaned dataset into **MYSQL** for SQL-based analysis
 
 ---
 
-## 🗄️ Data Analysis (SQL – PostgreSQL)
+## 🗄️ Data Analysis (SQL – MYSQL)
 
 Business-focused SQL queries were written to answer key questions:
 
@@ -100,13 +100,13 @@ The dashboard enables quick decision-making through dynamic filters and visuals.
 ## 🛠️ Tools & Technologies
 
 * **Python:** pandas, numpy
-* **Database:** PostgreSQL
+* **Database:** MySQL
 * **BI Tool:** Power BI
 * **IDE:** VS Code / Jupyter Notebook
 
 ---
 
-## 📁 Repository Structure (Suggested)
+## 📁 Repository Structure
 
 ```
 ├── data/
