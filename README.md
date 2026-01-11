@@ -4,7 +4,7 @@
 
 This project analyzes customer shopping behavior using transactional data from **3,900 purchases** across multiple product categories. The objective is to uncover actionable insights related to **spending patterns, customer segmentation, product preferences, discounts, and subscriptions** to support data-driven business decisions.
 
-The project demonstrates an **end-to-end data analytics workflow** using **Python, SQL (PostgreSQL), and Power BI**.
+The project demonstrates an **end-to-end data analytics workflow** using **Python, SQL (MySQL), and Power BI**.
 
 ---
 
